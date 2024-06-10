@@ -1,3 +1,3 @@
-xiaoyaapp/xiaoya
+docker push xiaoya/alist
 kasmweb/nginx:1.25.3
 
