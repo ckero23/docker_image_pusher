@@ -1,2 +1,2 @@
-Installing Portainer
+Portainer
 docker
