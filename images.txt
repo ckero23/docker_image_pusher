@@ -2,3 +2,4 @@ docker
 memcached
 alistairjlclark/donation-simulation
 xiaoyaliu/alist
+xiaoyaliu/emby
