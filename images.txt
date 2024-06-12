@@ -2,4 +2,4 @@
 docker
 memcached
 alistairjlclark/donation-simulation
-xiaoyaliu/jellyfin
+xiaoyaliu/tfm
