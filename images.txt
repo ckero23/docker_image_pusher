@@ -4,3 +4,4 @@ alistairjlclark/donation-simulation
 xiaoyaliu/alist
 xiaoyaliu/emby
 xiaoyaliu/glue
+docker:latest
