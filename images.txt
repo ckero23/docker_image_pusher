@@ -1,4 +1,4 @@
 xiaoyaliu/alist
 docker
 memcached
-alistairwalsh/tweet_data
+alistairjlclark/donation-simulation
