@@ -1,4 +1,4 @@
-xiaoyaliu/alist
+
 docker
 memcached
 alistairjlclark/donation-simulation
