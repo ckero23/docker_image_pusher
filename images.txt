@@ -3,3 +3,4 @@ memcached
 alistairjlclark/donation-simulation
 xiaoyaliu/alist
 xiaoyaliu/emby
+xiaoyaliu/glue
